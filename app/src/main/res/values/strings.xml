@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Info Kripto</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_About">About</string>
+    <string name="name">Andrian Maulana</string>
+    <string name="gmail">andrianmaulana5612@gmail.com</string>
+    <string name="empty_data">Data sedang kosong</string>
+</resources>
