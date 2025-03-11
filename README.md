@@ -30,7 +30,7 @@ Info Kripto App adalah aplikasi Android yang menyediakan informasi terkini tenta
 2. Buka proyek di **Android Studio**.
 3. Jalankan aplikasi menggunakan emulator atau perangkat fisik.
 
-## 🔧 API
+## 🔧 Dokumentasi API
    ```sh
-https://github.com/btcid/indodax-official-api-docs/blob/fffd794b4db1c238e7e07b7be60938a237db609c/Public-RestAPI.md
+   https://github.com/btcid/indodax-official-api-docs/blob/fffd794b4db1c238e7e07b7be60938a237db609c/Public-RestAPI.md
    ```
